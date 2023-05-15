@@ -6,8 +6,8 @@ from dataclasses import dataclass
 from typing import Optional, List
 from enum import Enum
 
-NOTEBOOKS_ROOT_PATH = "https://github.com/SkalskiP/ai-demos/blob/main/notebooks"
-NOTEBOOKS_COLAB_ROOT_PATH = "github/SkalskiP/ai-demos/blob/main/notebooks"
+NOTEBOOKS_ROOT_PATH = "https://github.com/SkalskiP/ai-demos/blob/master/notebooks"
+NOTEBOOKS_COLAB_ROOT_PATH = "github/SkalskiP/ai-demos/blob/master/notebooks"
 
 WARNING_HEADER = [
     "<!---",
