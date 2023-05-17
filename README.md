@@ -1,3 +1,5 @@
+[![Github Stars](https://img.shields.io/badge/stars-nominate-brightgreen?logo=github)](https://stars.github.com/nominate/)
+
 <h1 align="center">AI demos</h1>
 
 ## 👋 hello
